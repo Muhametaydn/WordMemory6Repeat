@@ -1,0 +1,129 @@
+/* wwwroot/css/site.css */
+
+/* 1. Renk Değişkenleri */
+:root {
+  --clr-body-bg: #FFFFFF;
+  /* içerik beyaz */
+  --clr-text: #212121;
+  /* koyu gri */
+  --clr-navbar-start: #FF5F6D;
+  /* sıcak pembe */
+  --clr-navbar-end: #FFC371;
+  /* parlak turuncu */
+  --clr-navbar-text: #FFFFFF;
+  /* beyaz */
+  --clr-footer-start: #36D1DC;
+  /* neon aqua */
+  --clr-footer-end: #5B86E5;
+  /* canlı mavi */
+  --clr-footer-text: #FFFFFF;
+  /* beyaz */
+  --clr-link: #FF0080;
+  /* neon pembe */
+  --clr-link-hover: #6600FF;
+  /* parlak mor */
+  --clr-btn-bg: #00FFB8;
+  /* neon yeşil */
+  --clr-btn-hover: #00CC99;
+  /* koyu neon yeşil */
+}
+
+/* 2. Global Reset ve Body */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: var(--clr-body-bg);
+  color: var(--clr-text);
+  font-family: "Segoe UI", Roboto, sans-serif;
+}
+
+/* 3. Navbar */
+.navbar-custom {
+  background: linear-gradient(90deg, var(--clr-navbar-start), var(--clr-navbar-end)) !important;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  color: var(--clr-navbar-text) !important;
+}
+
+.navbar-custom .nav-link:hover,
+.navbar-custom .nav-link.active {
+  opacity: 0.85;
+}
+
+/* 4. Main İçerik */
+main.container {
+  flex: 1;
+  padding: 1.5rem 1rem;
+  background-color: var(--clr-body-bg);
+}
+
+/* 5. Footer */
+.footer-custom {
+  background: linear-gradient(90deg, var(--clr-footer-start), var(--clr-footer-end));
+  color: var(--clr-footer-text);
+  padding: 1rem 0;
+}
+
+.footer-custom a {
+  color: var(--clr-footer-text);
+  margin: 0 0.5rem;
+  text-decoration: none;
+}
+
+.footer-custom a:hover {
+  text-decoration: underline;
+}
+
+/* 6. Link ve Buton Temaları */
+a {
+  color: var(--clr-link);
+}
+
+a:hover {
+  color: var(--clr-link-hover);
+}
+
+.btn-primary {
+  background-color: var(--clr-btn-bg);
+  border-color: var(--clr-btn-bg);
+  color: var(--clr-navbar-text);
+}
+
+.btn-primary:hover {
+  background-color: var(--clr-btn-hover);
+  border-color: var(--clr-btn-hover);
+}
+
+/* 7. Yardımcı Sınıflar */
+.border-top {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.border-bottom {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/* 8. Responsive */
+@media (max-width: 576px) {
+  .footer-custom .container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .navbar-custom .navbar-nav {
+    text-align: center;
+  }
+}

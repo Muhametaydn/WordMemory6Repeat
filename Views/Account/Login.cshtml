@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Giriş Yap";
+}
+<div class="d-flex align-items-center justify-content-center min-vh-100">
+    <div class="card shadow-sm" style="max-width: 400px; width: 100%;">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">Giriş Yap</h3>
+
+            @* Hata Mesajları *@
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="alert alert-danger">
+                    @foreach (var err in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                    {
+                        <div>@err.ErrorMessage</div>
+                    }
+                </div>
+            }
+
+            <form asp-action="Login" method="post">
+                <div class="mb-3">
+                    <label for="userName" class="form-label">Kullanıcı Adı</label>
+                    <input id="email" name="email" type="email" class="form-control form-control-lg"
+                        placeholder="Kullanıcı adınızı girin" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="password" class="form-label">Şifre</label>
+                    <input id="password" name="password" type="password" class="form-control form-control-lg"
+                        placeholder="Şifrenizi girin" required />
+                </div>
+
+                <button type="submit" class="btn btn-primary w-100 btn-lg">Giriş</button>
+            </form>
+
+            <div class="mt-3 d-flex justify-content-between">
+                <a asp-action="Register" class="link-secondary">Hesabın yok mu? Kayıt ol</a>
+                <a asp-action="ForgotPassword" class="link-secondary">Şifremi Unuttum</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        /* Opsiyonel: kartın biraz daha yuvarlak köşe ve arka plan efekti */
+        .card {
+            border-radius: 1rem;
+        }
+
+        body {
+            background: var(--clr-body-bg);
+        }
+    </style>
+}

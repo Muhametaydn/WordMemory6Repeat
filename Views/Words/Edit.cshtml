@@ -1,0 +1,56 @@
+@model WordMemoryApp.Models.Word
+@{
+    ViewData["Title"] = "Kelime Düzenle";
+}
+
+<h2>Kelime Düzenle</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data" class="mb-5">
+
+    <input type="hidden" name="WordID" value="@Model.WordID" />
+
+    <div class="mb-3">
+        <label for="EngWordName" class="form-label">İngilizce Kelime</label>
+        <input type="text" name="EngWordName" id="EngWordName" class="form-control" value="@Model.EngWordName" />
+        <span asp-validation-for="EngWordName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="TurWordName" class="form-label">Türkçe Kelime</label>
+        <input type="text" name="TurWordName" id="TurWordName" class="form-control" value="@Model.TurWordName" />
+        <span asp-validation-for="TurWordName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Mevcut Resim</label><br />
+        @if (!string.IsNullOrEmpty(Model.Picture))
+        {
+            <img src="~/@Model.Picture" class="img-thumbnail mb-2" style="max-height:150px;" alt="Mevcut Resim" />
+        }
+        else
+        {
+            <span class="text-muted">Henüz resim yok.</span>
+        }
+    </div>
+
+    <div class="mb-3">
+        <label for="PictureFile" class="form-label">Yeni Resim Yükle</label>
+        <input type="file" name="PictureFile" id="PictureFile" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="samples" class="form-label">Örnek Cümleler</label>
+        <textarea name="samples" id="samples" class="form-control"
+            rows="5">@(string.Join(Environment.NewLine, Model.Samples.Select(s => s.Samples)))</textarea>
+        <div class="form-text">Her satıra bir örnek cümle yazın.</div>
+    </div>
+
+    <button type="submit" class="btn btn-primary me-2">Kaydet</button>
+    <a asp-action="Index" class="btn btn-secondary">Vazgeç</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

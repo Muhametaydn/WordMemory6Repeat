@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Kelime Ekle";
+}
+<h2>Kelime Ekle</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label class="form-label">İngilizce Kelime</label>
+        <input name="EngWordName" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Türkçe Karşılık</label>
+        <input name="TurWordName" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Örnek Cümleler (her satıra bir cümle)</label>
+        <textarea name="samples" class="form-control" rows="4"></textarea>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Kelime Resmi</label>
+        <input type="file" name="PictureFile" class="form-control" accept="image/*" />
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">İptal</a>
+</form>
