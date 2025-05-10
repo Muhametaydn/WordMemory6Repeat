@@ -35,9 +35,9 @@ namespace WordMemoryApp.Data
                    .OnDelete(DeleteBehavior.Cascade);
 
             builder.Entity<Word>()
-                    .HasMany(w => w.Samples)
-                    .WithOne(s => s.Word!)
-                    .HasForeignKey(s => s.WordID)
+                    .HasOne(w => w.Owner)
+                    .WithMany(u => u.Words)
+                    .HasForeignKey(w => w.OwnerId)
                     .OnDelete(DeleteBehavior.Cascade);
         }
     }

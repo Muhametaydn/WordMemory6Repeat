@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UKIzCBvEv6eYwKnRxDcDY7dGxby06q5/tvKgFGv4opw=",
+  "Hash": "OGWYEYNFi0+Z0DGARnBDR43NQyU6yZlDssALUPdXEnE=",
   "Source": "WordMemoryApp",
   "BasePath": "_content/WordMemoryApp",
   "Mode": "Default",
@@ -1445,12 +1445,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\e0165db9-02d4-4950-a4a6-38859bc56078.jpg",
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg",
       "SourceId": "WordMemoryApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
       "BasePath": "_content/WordMemoryApp",
-      "RelativePath": "images/words/e0165db9-02d4-4950-a4a6-38859bc56078#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/words/032a9547-ef91-489e-ae23-b4ddf8e20c3f#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,11 +1459,473 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jwbc9cyeg3",
-      "Integrity": "vT+9fhZbj87PDbTBDmQ/xkfuaQ5ZKr8Blnyi9QcX9tI=",
+      "Fingerprint": "n55cm9vyna",
+      "Integrity": "G68S+M+slcQK0Fklzoq9P9UkHwvDbx0GGKY5iNVJxAg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\words\\e0165db9-02d4-4950-a4a6-38859bc56078.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\words\\032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\0a647c1d-d99c-4955-88af-4f3b1260e0b9.png",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/0a647c1d-d99c-4955-88af-4f3b1260e0b9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m2cei3p0km",
+      "Integrity": "ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\0a647c1d-d99c-4955-88af-4f3b1260e0b9.png"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/121e9e6e-09a2-4cf7-83d5-8d772b7bd207#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bdi23crzvb",
+      "Integrity": "gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\2513546d-fd3c-4988-80c6-334640001f4d.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/2513546d-fd3c-4988-80c6-334640001f4d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ultlo95qq",
+      "Integrity": "NIdAA9JAzmr5dS4FCYAATbKGeq4YhR2UjqzY2Th6ZDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\2513546d-fd3c-4988-80c6-334640001f4d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\36363ba7-ab0b-4755-a699-f50ab5634b55.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/36363ba7-ab0b-4755-a699-f50ab5634b55#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n966ck1uiw",
+      "Integrity": "O1FpaqUnDrN2lJd8RtjyM861BfQ01IhxiNdshKQlY3k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\36363ba7-ab0b-4755-a699-f50ab5634b55.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\401cd12a-71c6-45b6-95b4-566e4980717e.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/401cd12a-71c6-45b6-95b4-566e4980717e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "al91udbq0y",
+      "Integrity": "zkgcF8YXBsx7H4Mf3eYhc5OjynnjUqt7vAcByV2F2yM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\401cd12a-71c6-45b6-95b4-566e4980717e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\50f15a62-e791-4267-ad11-fc21fa0a738c.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/50f15a62-e791-4267-ad11-fc21fa0a738c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pofrlimaez",
+      "Integrity": "KSWhPxUXdxMYxGoyjBuD/ZCLsrFJGMt/v81gFlAKtM8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\50f15a62-e791-4267-ad11-fc21fa0a738c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/523b34a6-54a9-44da-93dc-e1d6fb05aca1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sfcepce9hm",
+      "Integrity": "iEC5+nlFP92U9l0aZMKiuhzrOJFNzAjnC79lSvQDm/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\5845e535-bf69-44cf-a11a-4611934ba83c.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/5845e535-bf69-44cf-a11a-4611934ba83c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "75dw82z1vc",
+      "Integrity": "i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\5845e535-bf69-44cf-a11a-4611934ba83c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\77f53854-0dce-4037-848a-78bc2a87dcd5.webp",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/77f53854-0dce-4037-848a-78bc2a87dcd5#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2t9pv7k3qw",
+      "Integrity": "GgdXqZqmYNLUHTWguSaYf7sjz3icBwZRjJpKeH+uedg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\77f53854-0dce-4037-848a-78bc2a87dcd5.webp"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/80e0bfd3-c987-41a0-8d5e-fcba0f014439#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ju2ycje6d",
+      "Integrity": "7Ta3iMxVyyr+0nhPqVajCVQCF/gvn2JshzOdNYNL8XA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\9230d911-dee6-43ba-93af-49eeb13c305d.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/9230d911-dee6-43ba-93af-49eeb13c305d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "60ec0otrhc",
+      "Integrity": "5sEuCyAUUxVaEdyAueDpXmp5i6vG2h4gdfXl9zyCDgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\9230d911-dee6-43ba-93af-49eeb13c305d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\93456ece-b958-4fde-9722-1749c2377e34.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/93456ece-b958-4fde-9722-1749c2377e34#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "75dw82z1vc",
+      "Integrity": "i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\93456ece-b958-4fde-9722-1749c2377e34.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\9a910519-9b39-491c-9138-232ccb504d95.png",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/9a910519-9b39-491c-9138-232ccb504d95#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xdmhbixeef",
+      "Integrity": "lY6op6rWzIsDiajqO+Cie1/z8XeHfMH46FyXEpz9Uhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\9a910519-9b39-491c-9138-232ccb504d95.png"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\b2609055-7555-49e4-91f0-e1973e2426fd.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/b2609055-7555-49e4-91f0-e1973e2426fd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lfy8dlovze",
+      "Integrity": "UUFRTufaIltvd1mBjsGER66XuEjosn1ulNlAeixJPI4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\b2609055-7555-49e4-91f0-e1973e2426fd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\c42a8905-7183-42f8-aee4-58d91a295436.webp",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/c42a8905-7183-42f8-aee4-58d91a295436#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "29ra09drnk",
+      "Integrity": "igM9NYhQXJjEby/J39kgnQuQl0kptYsBnw0eHA2jGbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\c42a8905-7183-42f8-aee4-58d91a295436.webp"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\c5173526-caac-4619-ac12-e747970a68f4.webp",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/c5173526-caac-4619-ac12-e747970a68f4#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iialk4lz55",
+      "Integrity": "elxSt1YTjp0Xoduh5OODhS5gEkr7kqve464PYrNm1fY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\c5173526-caac-4619-ac12-e747970a68f4.webp"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\ce0121a4-d81f-4316-980c-dbee73f142a7.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/ce0121a4-d81f-4316-980c-dbee73f142a7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1xhv5mh59n",
+      "Integrity": "iwbDr3wnvMz0QrwTLHLMHxTYG33m18FjQHxkR6mGXK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\ce0121a4-d81f-4316-980c-dbee73f142a7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\d5edddc3-456d-4056-b71e-b031280564bd.png",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/d5edddc3-456d-4056-b71e-b031280564bd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m2cei3p0km",
+      "Integrity": "ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\d5edddc3-456d-4056-b71e-b031280564bd.png"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yu3n9fowrb",
+      "Integrity": "tscQVbFQVkzI0EkW3BJUlso+MxVsrkjelUtpbu6wE5E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/e2460a15-b1b8-43dd-bcad-a3c1784d46d6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0lc1t7c9f2",
+      "Integrity": "DFHx08PMRciHioZJXTxuvgAGH9hLGSQJUoG2DwuxQ1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/f44c3d37-8c0d-450c-a63f-cc49908c9722#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h67mb8c1h2",
+      "Integrity": "2dh6qsgqLAgAN+bb2kCKgrhQC6Pj5qRMcOu2dR4HQ5M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "images/words/f8c387d1-393a-4d65-a4c5-1142ac5e6ef0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0mw1ak1szr",
+      "Integrity": "qHr8zoDCjuDOt6cblTNXPaQUga7jZGzPv4bpB2TZ4GA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\words\\f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg"
     },
     {
       "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\js\\site.js",
@@ -3345,8 +3807,8 @@
       ]
     },
     {
-      "Route": "images/words/e0165db9-02d4-4950-a4a6-38859bc56078.jpg",
-      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\e0165db9-02d4-4950-a4a6-38859bc56078.jpg",
+      "Route": "images/words/032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3355,7 +3817,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "224668"
+          "Value": "554679"
         },
         {
           "Name": "Content-Type",
@@ -3363,11 +3825,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vT+9fhZbj87PDbTBDmQ/xkfuaQ5ZKr8Blnyi9QcX9tI=\""
+          "Value": "\"G68S+M+slcQK0Fklzoq9P9UkHwvDbx0GGKY5iNVJxAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 17:48:27 GMT"
+          "Value": "Fri, 09 May 2025 18:05:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3377,13 +3839,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vT+9fhZbj87PDbTBDmQ/xkfuaQ5ZKr8Blnyi9QcX9tI="
+          "Value": "sha256-G68S+M+slcQK0Fklzoq9P9UkHwvDbx0GGKY5iNVJxAg="
         }
       ]
     },
     {
-      "Route": "images/words/e0165db9-02d4-4950-a4a6-38859bc56078.jwbc9cyeg3.jpg",
-      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\e0165db9-02d4-4950-a4a6-38859bc56078.jpg",
+      "Route": "images/words/032a9547-ef91-489e-ae23-b4ddf8e20c3f.n55cm9vyna.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3392,7 +3854,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "224668"
+          "Value": "554679"
         },
         {
           "Name": "Content-Type",
@@ -3400,11 +3862,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vT+9fhZbj87PDbTBDmQ/xkfuaQ5ZKr8Blnyi9QcX9tI=\""
+          "Value": "\"G68S+M+slcQK0Fklzoq9P9UkHwvDbx0GGKY5iNVJxAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 17:48:27 GMT"
+          "Value": "Fri, 09 May 2025 18:05:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3414,15 +3876,1819 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jwbc9cyeg3"
+          "Value": "n55cm9vyna"
         },
         {
           "Name": "label",
-          "Value": "images/words/e0165db9-02d4-4950-a4a6-38859bc56078.jpg"
+          "Value": "images/words/032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vT+9fhZbj87PDbTBDmQ/xkfuaQ5ZKr8Blnyi9QcX9tI="
+          "Value": "sha256-G68S+M+slcQK0Fklzoq9P9UkHwvDbx0GGKY5iNVJxAg="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/0a647c1d-d99c-4955-88af-4f3b1260e0b9.m2cei3p0km.png",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\0a647c1d-d99c-4955-88af-4f3b1260e0b9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m2cei3p0km"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/0a647c1d-d99c-4955-88af-4f3b1260e0b9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/0a647c1d-d99c-4955-88af-4f3b1260e0b9.png",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\0a647c1d-d99c-4955-88af-4f3b1260e0b9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/121e9e6e-09a2-4cf7-83d5-8d772b7bd207.bdi23crzvb.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:05:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bdi23crzvb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:05:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/2513546d-fd3c-4988-80c6-334640001f4d.4ultlo95qq.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\2513546d-fd3c-4988-80c6-334640001f4d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIdAA9JAzmr5dS4FCYAATbKGeq4YhR2UjqzY2Th6ZDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:04:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ultlo95qq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/2513546d-fd3c-4988-80c6-334640001f4d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIdAA9JAzmr5dS4FCYAATbKGeq4YhR2UjqzY2Th6ZDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/2513546d-fd3c-4988-80c6-334640001f4d.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\2513546d-fd3c-4988-80c6-334640001f4d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIdAA9JAzmr5dS4FCYAATbKGeq4YhR2UjqzY2Th6ZDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:04:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIdAA9JAzmr5dS4FCYAATbKGeq4YhR2UjqzY2Th6ZDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/36363ba7-ab0b-4755-a699-f50ab5634b55.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\36363ba7-ab0b-4755-a699-f50ab5634b55.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1FpaqUnDrN2lJd8RtjyM861BfQ01IhxiNdshKQlY3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:16:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1FpaqUnDrN2lJd8RtjyM861BfQ01IhxiNdshKQlY3k="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/36363ba7-ab0b-4755-a699-f50ab5634b55.n966ck1uiw.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\36363ba7-ab0b-4755-a699-f50ab5634b55.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1FpaqUnDrN2lJd8RtjyM861BfQ01IhxiNdshKQlY3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:16:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n966ck1uiw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/36363ba7-ab0b-4755-a699-f50ab5634b55.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1FpaqUnDrN2lJd8RtjyM861BfQ01IhxiNdshKQlY3k="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/401cd12a-71c6-45b6-95b4-566e4980717e.al91udbq0y.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\401cd12a-71c6-45b6-95b4-566e4980717e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zkgcF8YXBsx7H4Mf3eYhc5OjynnjUqt7vAcByV2F2yM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:06:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "al91udbq0y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/401cd12a-71c6-45b6-95b4-566e4980717e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zkgcF8YXBsx7H4Mf3eYhc5OjynnjUqt7vAcByV2F2yM="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/401cd12a-71c6-45b6-95b4-566e4980717e.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\401cd12a-71c6-45b6-95b4-566e4980717e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zkgcF8YXBsx7H4Mf3eYhc5OjynnjUqt7vAcByV2F2yM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:06:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zkgcF8YXBsx7H4Mf3eYhc5OjynnjUqt7vAcByV2F2yM="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/50f15a62-e791-4267-ad11-fc21fa0a738c.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\50f15a62-e791-4267-ad11-fc21fa0a738c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSWhPxUXdxMYxGoyjBuD/ZCLsrFJGMt/v81gFlAKtM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:15:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSWhPxUXdxMYxGoyjBuD/ZCLsrFJGMt/v81gFlAKtM8="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/50f15a62-e791-4267-ad11-fc21fa0a738c.pofrlimaez.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\50f15a62-e791-4267-ad11-fc21fa0a738c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSWhPxUXdxMYxGoyjBuD/ZCLsrFJGMt/v81gFlAKtM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:15:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pofrlimaez"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/50f15a62-e791-4267-ad11-fc21fa0a738c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSWhPxUXdxMYxGoyjBuD/ZCLsrFJGMt/v81gFlAKtM8="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iEC5+nlFP92U9l0aZMKiuhzrOJFNzAjnC79lSvQDm/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iEC5+nlFP92U9l0aZMKiuhzrOJFNzAjnC79lSvQDm/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/523b34a6-54a9-44da-93dc-e1d6fb05aca1.sfcepce9hm.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iEC5+nlFP92U9l0aZMKiuhzrOJFNzAjnC79lSvQDm/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfcepce9hm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iEC5+nlFP92U9l0aZMKiuhzrOJFNzAjnC79lSvQDm/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/5845e535-bf69-44cf-a11a-4611934ba83c.75dw82z1vc.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\5845e535-bf69-44cf-a11a-4611934ba83c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75dw82z1vc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/5845e535-bf69-44cf-a11a-4611934ba83c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/5845e535-bf69-44cf-a11a-4611934ba83c.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\5845e535-bf69-44cf-a11a-4611934ba83c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/77f53854-0dce-4037-848a-78bc2a87dcd5.2t9pv7k3qw.webp",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\77f53854-0dce-4037-848a-78bc2a87dcd5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GgdXqZqmYNLUHTWguSaYf7sjz3icBwZRjJpKeH+uedg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2t9pv7k3qw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/77f53854-0dce-4037-848a-78bc2a87dcd5.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GgdXqZqmYNLUHTWguSaYf7sjz3icBwZRjJpKeH+uedg="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/77f53854-0dce-4037-848a-78bc2a87dcd5.webp",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\77f53854-0dce-4037-848a-78bc2a87dcd5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GgdXqZqmYNLUHTWguSaYf7sjz3icBwZRjJpKeH+uedg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GgdXqZqmYNLUHTWguSaYf7sjz3icBwZRjJpKeH+uedg="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/80e0bfd3-c987-41a0-8d5e-fcba0f014439.7ju2ycje6d.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Ta3iMxVyyr+0nhPqVajCVQCF/gvn2JshzOdNYNL8XA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:05:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ju2ycje6d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Ta3iMxVyyr+0nhPqVajCVQCF/gvn2JshzOdNYNL8XA="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Ta3iMxVyyr+0nhPqVajCVQCF/gvn2JshzOdNYNL8XA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:05:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Ta3iMxVyyr+0nhPqVajCVQCF/gvn2JshzOdNYNL8XA="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/9230d911-dee6-43ba-93af-49eeb13c305d.60ec0otrhc.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\9230d911-dee6-43ba-93af-49eeb13c305d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1375696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sEuCyAUUxVaEdyAueDpXmp5i6vG2h4gdfXl9zyCDgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:16:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "60ec0otrhc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/9230d911-dee6-43ba-93af-49eeb13c305d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sEuCyAUUxVaEdyAueDpXmp5i6vG2h4gdfXl9zyCDgE="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/9230d911-dee6-43ba-93af-49eeb13c305d.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\9230d911-dee6-43ba-93af-49eeb13c305d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1375696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sEuCyAUUxVaEdyAueDpXmp5i6vG2h4gdfXl9zyCDgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:16:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sEuCyAUUxVaEdyAueDpXmp5i6vG2h4gdfXl9zyCDgE="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/93456ece-b958-4fde-9722-1749c2377e34.75dw82z1vc.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\93456ece-b958-4fde-9722-1749c2377e34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75dw82z1vc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/93456ece-b958-4fde-9722-1749c2377e34.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/93456ece-b958-4fde-9722-1749c2377e34.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\93456ece-b958-4fde-9722-1749c2377e34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8rlvIeyWhFBvVLEOkq1hV+g4hYMuKIKgpwo9tcqHTY="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/9a910519-9b39-491c-9138-232ccb504d95.png",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\9a910519-9b39-491c-9138-232ccb504d95.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lY6op6rWzIsDiajqO+Cie1/z8XeHfMH46FyXEpz9Uhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:04:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lY6op6rWzIsDiajqO+Cie1/z8XeHfMH46FyXEpz9Uhk="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/9a910519-9b39-491c-9138-232ccb504d95.xdmhbixeef.png",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\9a910519-9b39-491c-9138-232ccb504d95.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lY6op6rWzIsDiajqO+Cie1/z8XeHfMH46FyXEpz9Uhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:04:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xdmhbixeef"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/9a910519-9b39-491c-9138-232ccb504d95.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lY6op6rWzIsDiajqO+Cie1/z8XeHfMH46FyXEpz9Uhk="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/b2609055-7555-49e4-91f0-e1973e2426fd.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\b2609055-7555-49e4-91f0-e1973e2426fd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UUFRTufaIltvd1mBjsGER66XuEjosn1ulNlAeixJPI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:04:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UUFRTufaIltvd1mBjsGER66XuEjosn1ulNlAeixJPI4="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/b2609055-7555-49e4-91f0-e1973e2426fd.lfy8dlovze.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\b2609055-7555-49e4-91f0-e1973e2426fd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UUFRTufaIltvd1mBjsGER66XuEjosn1ulNlAeixJPI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:04:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lfy8dlovze"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/b2609055-7555-49e4-91f0-e1973e2426fd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UUFRTufaIltvd1mBjsGER66XuEjosn1ulNlAeixJPI4="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/c42a8905-7183-42f8-aee4-58d91a295436.29ra09drnk.webp",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\c42a8905-7183-42f8-aee4-58d91a295436.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"igM9NYhQXJjEby/J39kgnQuQl0kptYsBnw0eHA2jGbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:03:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "29ra09drnk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/c42a8905-7183-42f8-aee4-58d91a295436.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-igM9NYhQXJjEby/J39kgnQuQl0kptYsBnw0eHA2jGbA="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/c42a8905-7183-42f8-aee4-58d91a295436.webp",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\c42a8905-7183-42f8-aee4-58d91a295436.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"igM9NYhQXJjEby/J39kgnQuQl0kptYsBnw0eHA2jGbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:03:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-igM9NYhQXJjEby/J39kgnQuQl0kptYsBnw0eHA2jGbA="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/c5173526-caac-4619-ac12-e747970a68f4.iialk4lz55.webp",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\c5173526-caac-4619-ac12-e747970a68f4.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"elxSt1YTjp0Xoduh5OODhS5gEkr7kqve464PYrNm1fY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:14:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iialk4lz55"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/c5173526-caac-4619-ac12-e747970a68f4.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-elxSt1YTjp0Xoduh5OODhS5gEkr7kqve464PYrNm1fY="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/c5173526-caac-4619-ac12-e747970a68f4.webp",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\c5173526-caac-4619-ac12-e747970a68f4.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"elxSt1YTjp0Xoduh5OODhS5gEkr7kqve464PYrNm1fY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:14:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-elxSt1YTjp0Xoduh5OODhS5gEkr7kqve464PYrNm1fY="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/ce0121a4-d81f-4316-980c-dbee73f142a7.1xhv5mh59n.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\ce0121a4-d81f-4316-980c-dbee73f142a7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iwbDr3wnvMz0QrwTLHLMHxTYG33m18FjQHxkR6mGXK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:03:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xhv5mh59n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/ce0121a4-d81f-4316-980c-dbee73f142a7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iwbDr3wnvMz0QrwTLHLMHxTYG33m18FjQHxkR6mGXK0="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/ce0121a4-d81f-4316-980c-dbee73f142a7.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\ce0121a4-d81f-4316-980c-dbee73f142a7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iwbDr3wnvMz0QrwTLHLMHxTYG33m18FjQHxkR6mGXK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:03:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iwbDr3wnvMz0QrwTLHLMHxTYG33m18FjQHxkR6mGXK0="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/d5edddc3-456d-4056-b71e-b031280564bd.m2cei3p0km.png",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\d5edddc3-456d-4056-b71e-b031280564bd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m2cei3p0km"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/d5edddc3-456d-4056-b71e-b031280564bd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/d5edddc3-456d-4056-b71e-b031280564bd.png",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\d5edddc3-456d-4056-b71e-b031280564bd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ngIsqKkjaZYi4MUK/RpjlHVLNMpXbAw4QHTFpKPHqwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tscQVbFQVkzI0EkW3BJUlso+MxVsrkjelUtpbu6wE5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:15:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tscQVbFQVkzI0EkW3BJUlso+MxVsrkjelUtpbu6wE5E="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.yu3n9fowrb.webp",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tscQVbFQVkzI0EkW3BJUlso+MxVsrkjelUtpbu6wE5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:15:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yu3n9fowrb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tscQVbFQVkzI0EkW3BJUlso+MxVsrkjelUtpbu6wE5E="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/e2460a15-b1b8-43dd-bcad-a3c1784d46d6.0lc1t7c9f2.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DFHx08PMRciHioZJXTxuvgAGH9hLGSQJUoG2DwuxQ1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 17:50:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0lc1t7c9f2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DFHx08PMRciHioZJXTxuvgAGH9hLGSQJUoG2DwuxQ1A="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DFHx08PMRciHioZJXTxuvgAGH9hLGSQJUoG2DwuxQ1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 17:50:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DFHx08PMRciHioZJXTxuvgAGH9hLGSQJUoG2DwuxQ1A="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/f44c3d37-8c0d-450c-a63f-cc49908c9722.h67mb8c1h2.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2dh6qsgqLAgAN+bb2kCKgrhQC6Pj5qRMcOu2dR4HQ5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h67mb8c1h2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2dh6qsgqLAgAN+bb2kCKgrhQC6Pj5qRMcOu2dR4HQ5M="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2dh6qsgqLAgAN+bb2kCKgrhQC6Pj5qRMcOu2dR4HQ5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2dh6qsgqLAgAN+bb2kCKgrhQC6Pj5qRMcOu2dR4HQ5M="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.0mw1ak1szr.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qHr8zoDCjuDOt6cblTNXPaQUga7jZGzPv4bpB2TZ4GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:13:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0mw1ak1szr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/words/f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qHr8zoDCjuDOt6cblTNXPaQUga7jZGzPv4bpB2TZ4GA="
+        }
+      ]
+    },
+    {
+      "Route": "images/words/f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qHr8zoDCjuDOt6cblTNXPaQUga7jZGzPv4bpB2TZ4GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 18:13:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qHr8zoDCjuDOt6cblTNXPaQUga7jZGzPv4bpB2TZ4GA="
         }
       ]
     },

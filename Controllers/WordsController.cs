@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WordMemoryApp.Data;
 using WordMemoryApp.Models;
-
+using System.Security.Claims;
 namespace WordMemoryApp.Controllers
 {
     [Authorize]
@@ -18,42 +18,64 @@ namespace WordMemoryApp.Controllers
             _context = context;
             _env = env;
         }
+        // Yardımcı: şu anki kullanıcının UserID'sini getir
+        private async Task<int?> GetCurrentUserIdAsync()
+        {
+            // 1) Eğer login sonrası ClaimTypes.NameIdentifier'a atıyorsanız:
+            var idClaim = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (int.TryParse(idClaim, out var uid))
+                return uid;
 
+            // 2) Ya da kullanıcı adını Name üzerinden alıp DB'den çekebilirsiniz:
+            var username = User.Identity?.Name;
+            if (username != null)
+            {
+                var u = await _context.Users
+                             .FirstOrDefaultAsync(x => x.UserName == username);
+                return u?.UserID;
+            }
+
+            return null;
+        }
         // Kelime listesi
+        // GET: Words
         public async Task<IActionResult> Index()
         {
+            var userId = await GetCurrentUserIdAsync();
+            if (userId == null) return Forbid();
+
             var words = await _context.Words
+                .Where(w => w.OwnerId == userId.Value)
                 .Include(w => w.Samples)
                 .ToListAsync();
             return View(words);
         }
 
         // GET: Kelime ekleme formu
-        [HttpGet]
-        public IActionResult Create()
-        {
-            return View();
-        }
+        // GET: Words/Create
+        public IActionResult Create() => View();
 
-        // POST: Kelime ekleme
-        [HttpPost]
-        [ValidateAntiForgeryToken]
+        // POST: Words/Create
+        [HttpPost, ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(
             string EngWordName,
             string TurWordName,
             string samples,
             IFormFile? PictureFile)
         {
-            if (!ModelState.IsValid)
-                return View();
+            var userId = await GetCurrentUserIdAsync();
+            if (userId == null) return Forbid();
+
+            if (!ModelState.IsValid) return View();
 
             var word = new Word
             {
                 EngWordName = EngWordName,
-                TurWordName = TurWordName
+                TurWordName = TurWordName,
+                OwnerId = userId.Value
             };
 
-            // Resim kaydet
+            // — Resim kaydet
             if (PictureFile != null && PictureFile.Length > 0)
             {
                 var uploads = Path.Combine(_env.WebRootPath, "images", "words");
@@ -65,35 +87,37 @@ namespace WordMemoryApp.Controllers
                 word.Picture = Path.Combine("images/words", fileName).Replace("\\", "/");
             }
 
+            // — Örnek cümleleri ekle
+            if (!string.IsNullOrWhiteSpace(samples))
+            {
+                var lines = samples
+                    .Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(t => t.Trim());
+
+                foreach (var line in lines)
+                    word.Samples.Add(new WordSample { Samples = line });
+            }
+
             _context.Words.Add(word);
             await _context.SaveChangesAsync();
-
-            // Örnek cümleleri satır satır ekle
-            var lines = samples
-                .Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
-            foreach (var line in lines)
-            {
-                _context.WordSamples.Add(new WordSample
-                {
-                    WordID = word.WordID,
-                    Samples = line
-                });
-            }
-            await _context.SaveChangesAsync();
-
             return RedirectToAction(nameof(Index));
         }
 
 
 
+
         // GET: Words/Edit/5
-        [HttpGet]
+        // GET: Words/Edit/5
         public async Task<IActionResult> Edit(int id)
         {
+            var userId = await GetCurrentUserIdAsync();
+            if (userId == null) return Forbid();
+
             var word = await _context.Words
-                                     .Include(w => w.Samples)
-                                     .FirstOrDefaultAsync(w => w.WordID == id);
+                            .Include(w => w.Samples)
+                            .FirstOrDefaultAsync(w => w.WordID == id && w.OwnerId == userId);
             if (word == null) return NotFound();
+
             return View(word);
         }
 
@@ -106,60 +130,50 @@ namespace WordMemoryApp.Controllers
             string samples,
             IFormFile? PictureFile)
         {
-            // 1) Var mı kontrol
+            var userId = await GetCurrentUserIdAsync();
+            if (userId == null) return Forbid();
+
             var word = await _context.Words
-                                     .Include(w => w.Samples)
-                                     .FirstOrDefaultAsync(w => w.WordID == WordID);
+                            .Include(w => w.Samples)
+                            .FirstOrDefaultAsync(w => w.WordID == WordID && w.OwnerId == userId);
             if (word == null) return NotFound();
 
-            // 2) Temel alanları güncelle
             word.EngWordName = EngWordName;
             word.TurWordName = TurWordName;
 
-            // 3) Resim güncelleme
+            // — Resim güncelle
             if (PictureFile != null && PictureFile.Length > 0)
             {
                 var uploads = Path.Combine(_env.WebRootPath, "images", "words");
                 Directory.CreateDirectory(uploads);
-
                 var fileName = Guid.NewGuid() + Path.GetExtension(PictureFile.FileName);
                 var filePath = Path.Combine(uploads, fileName);
                 using var stream = new FileStream(filePath, FileMode.Create);
                 await PictureFile.CopyToAsync(stream);
-
-                // (İsteğe bağlı) eski resmi sil
                 if (!string.IsNullOrEmpty(word.Picture))
                 {
-                    var oldFullPath = Path.Combine(_env.WebRootPath, word.Picture);
-                    if (System.IO.File.Exists(oldFullPath))
-                        System.IO.File.Delete(oldFullPath);
+                    var old = Path.Combine(_env.WebRootPath, word.Picture);
+                    if (System.IO.File.Exists(old))
+                        System.IO.File.Delete(old);
                 }
-
                 word.Picture = Path.Combine("images/words", fileName).Replace("\\", "/");
             }
 
-            // 4) Örnek cümleleri yenile
+            // — Örnek cümleleri yenile
             _context.WordSamples.RemoveRange(word.Samples);
             if (!string.IsNullOrWhiteSpace(samples))
             {
                 var lines = samples
                     .Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries)
-                    .Select(text => text.Trim());
-
+                    .Select(t => t.Trim());
                 foreach (var line in lines)
-                {
-                    word.Samples.Add(new WordSample
-                    {
-                        WordID = word.WordID,
-                        Samples = line
-                    });
-                }
+                    word.Samples.Add(new WordSample { Samples = line });
             }
 
-            // 5) Kaydet ve yönlendir
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+
 
 
 
@@ -173,18 +187,24 @@ namespace WordMemoryApp.Controllers
             return View(word);            // Views/Words/Delete.cshtml
         }
 
-        // 4) POST: /Words/DeleteConfirmed/5  -----------------------------
-        [HttpPost, ActionName("DeleteConfirmed"), ValidateAntiForgeryToken]
+        // POST: Words/DeleteConfirmed/5
+        [HttpPost, ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var word = await _context.Words.FindAsync(id);
-            if (word is not null)
+            var userId = await GetCurrentUserIdAsync();
+            if (userId == null) return Forbid();
+
+            var word = await _context.Words
+                            .FirstOrDefaultAsync(w => w.WordID == id && w.OwnerId == userId);
+            if (word != null)
             {
                 _context.Words.Remove(word);
                 await _context.SaveChangesAsync();
             }
+
             return RedirectToAction(nameof(Index));
         }
+
         private bool WordExists(int id)
            => _context.Words.Any(e => e.WordID == id);
     }

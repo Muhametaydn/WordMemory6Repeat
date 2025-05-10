@@ -232,3 +232,4 @@ C:\Users\cidal\Desktop\CodingFile\WordMemoryApp\obj\Debug\net9.0\ref\WordMemoryA
 C:\Users\cidal\Desktop\CodingFile\WordMemoryApp\obj\Debug\net9.0\compressed\tvmc5pizuh-fyftc8bccf.gz
 C:\Users\cidal\Desktop\CodingFile\WordMemoryApp\obj\Debug\net9.0\compressed\mzply3pzvh-fyftc8bccf.gz
 C:\Users\cidal\Desktop\CodingFile\WordMemoryApp\obj\Debug\net9.0\compressed\eymv1b0xah-nbvnm50e24.gz
+C:\Users\cidal\Desktop\CodingFile\WordMemoryApp\obj\Debug\net9.0\WordMemoryApp.sourcelink.json

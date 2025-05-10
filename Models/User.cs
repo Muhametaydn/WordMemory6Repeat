@@ -13,5 +13,8 @@ namespace WordMemoryApp.Models
         public string Email { get; set; } = null!;      // ← zorunlu e-posta
 
         public string PasswordHash { get; set; } = null!;
+
+        // Navigation
+        public ICollection<Word>? Words { get; set; }
     }
 }
