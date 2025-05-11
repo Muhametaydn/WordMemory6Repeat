@@ -1,0 +1,83 @@
+@model WordMemoryApp.Models.Quiz.QuizVM
+@using WordMemoryApp.Models
+@{
+    ViewData["Title"] = "Kelime Sınavı";
+    Layout = "_Layout";
+}
+
+<style>
+    /* küçük estetik ayar */
+    .quiz-card {
+        border-radius: 1rem;
+    }
+
+    .quiz-img {
+        max-height: 120px;
+        object-fit: contain;
+    }
+
+    .quiz-label {
+        font-weight: 600;
+    }
+</style>
+
+<h2 class="mb-4">Kelime Sınavı <small class="text-muted">(@Model.Questions.Count soru)</small></h2>
+
+<form asp-action="Submit" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="row row-cols-1 gy-4">
+        @for (int i = 0; i < Model.Questions.Count; i++)
+        {
+            var q = Model.Questions[i];
+
+            /* ---- resim yolu düzenle ---- */
+            var picture = string.IsNullOrWhiteSpace(q.PicturePath)
+            ? null
+            : (q.PicturePath.StartsWith("/") ? q.PicturePath : "/" + q.PicturePath);
+            /* ---------------------------- */
+
+            <div class="col">
+                <div class="card quiz-card shadow-sm p-4">
+                    <h5 class="mb-3">Soru @(i + 1)</h5>
+
+                    @switch (q.QuestionType)
+                    {
+                        case QuestionType.EngToTurk:
+                            <p class="quiz-label">
+                                <strong>@q.EngWord</strong> kelimesinin <u>Türkçesini</u> yazınız:
+                            </p>
+                            break;
+
+                        case QuestionType.PictureToEng:
+                            if (picture is not null)
+                            {
+                                <p class="quiz-label">Bu görseldeki kelimenin <u>İngilizcesini</u> yazınız:</p>
+                                <img src="@Url.Content("~" + picture)" alt="Kelime resmi" class="quiz-img rounded border mb-2" />
+                            }
+                            else
+                            {
+                                <p><em>Resim bulunamadı – metin sorusuna dönüştürüldü.</em></p>
+                            }
+                            break;
+
+                        case QuestionType.SentenceToTurk:
+                            <p class="quiz-label">Altı çizili kelimenin <u>Türkçesini</u> yazınız:</p>
+                            <p>@Html.Raw(q.SentenceHtml)</p>
+                            break;
+                    }
+
+                    <input type="text" asp-for="Questions[@i].UserAnswer" class="form-control mb-1" autocomplete="off" />
+
+                    <!-- gizli alanlar -->
+                    <input type="hidden" asp-for="Questions[@i].WordID" />
+                    <input type="hidden" asp-for="Questions[@i].QuestionType" />
+                    <input type="hidden" asp-for="Questions[@i].EngWord" />
+                    <input type="hidden" asp-for="Questions[@i].TurkWord" />
+                </div>
+            </div>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-4 px-4">Sınavı Bitir</button>
+</form>

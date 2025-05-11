@@ -1,3 +1,10 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@if (TempData["QuizScore"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        Sınav Sonucu: <strong>@TempData["QuizScore"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}

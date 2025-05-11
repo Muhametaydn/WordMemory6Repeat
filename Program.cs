@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using WordMemoryApp.Data; // DbContext burada olacak
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
+using WordMemoryApp.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -23,6 +24,7 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
 // ► PasswordHasher DI (Identity kurmadan sadece hasher kullanacağız)
 builder.Services.AddScoped<IPasswordHasher<User>, PasswordHasher<User>>();
 
+builder.Services.AddScoped<QuizService>();   // ← EKLE
 
 var app = builder.Build();
 
@@ -36,7 +38,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseRouting();
 
-
+app.UseStaticFiles();
 // 👇 MUTLAKA önce Authentication
 app.UseAuthentication();
 // 👇 sonra Authorization

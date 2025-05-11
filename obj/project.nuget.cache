@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2hkzv+lkDr4=",
+  "dgSpecHash": "F9JGBQDK3sk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\WordMemoryApp.csproj",
+  "projectFilePath": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\WordMemoryApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cidal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\cidal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

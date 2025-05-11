@@ -1,351 +1,499 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WordMemoryApp.bundle.scp.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WordMemoryApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\WordMemoryApp.fyftc8bccf.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg",
       "PackagePath": "staticwebassets\\images\\words\\032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\0a647c1d-d99c-4955-88af-4f3b1260e0b9.png",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\07d7ab51-56fd-4dbb-ad2e-420382ed2577.webp",
+      "PackagePath": "staticwebassets\\images\\words\\07d7ab51-56fd-4dbb-ad2e-420382ed2577.webp"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\0a647c1d-d99c-4955-88af-4f3b1260e0b9.png",
       "PackagePath": "staticwebassets\\images\\words\\0a647c1d-d99c-4955-88af-4f3b1260e0b9.png"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\10c2633b-5184-4ac1-9b39-727f35f9ef45.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\10c2633b-5184-4ac1-9b39-727f35f9ef45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg",
       "PackagePath": "staticwebassets\\images\\words\\121e9e6e-09a2-4cf7-83d5-8d772b7bd207.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\2513546d-fd3c-4988-80c6-334640001f4d.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\1ca6bb7f-d233-43ec-b45e-345003956460.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\1ca6bb7f-d233-43ec-b45e-345003956460.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\1eda6c56-b6fc-4dc6-af1b-a6eff276716b.webp",
+      "PackagePath": "staticwebassets\\images\\words\\1eda6c56-b6fc-4dc6-af1b-a6eff276716b.webp"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\23488ea2-3eb2-4d8e-a2f5-c781cd419cac.webp",
+      "PackagePath": "staticwebassets\\images\\words\\23488ea2-3eb2-4d8e-a2f5-c781cd419cac.webp"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\2513546d-fd3c-4988-80c6-334640001f4d.jpg",
       "PackagePath": "staticwebassets\\images\\words\\2513546d-fd3c-4988-80c6-334640001f4d.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\36363ba7-ab0b-4755-a699-f50ab5634b55.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\29816200-14bf-4133-ae19-29c767e70d09.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\29816200-14bf-4133-ae19-29c767e70d09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\2b6df911-eed4-42fe-91eb-17b6e415b891.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\2b6df911-eed4-42fe-91eb-17b6e415b891.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\2b94fc75-78f8-455c-b174-eb6748983915.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\2b94fc75-78f8-455c-b174-eb6748983915.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\2f854600-d196-4a64-b1f7-fe0b4a0779c8.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\2f854600-d196-4a64-b1f7-fe0b4a0779c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\31654dd2-e211-4c64-94fb-d169c3ae2679.webp",
+      "PackagePath": "staticwebassets\\images\\words\\31654dd2-e211-4c64-94fb-d169c3ae2679.webp"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\36363ba7-ab0b-4755-a699-f50ab5634b55.jpg",
       "PackagePath": "staticwebassets\\images\\words\\36363ba7-ab0b-4755-a699-f50ab5634b55.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\401cd12a-71c6-45b6-95b4-566e4980717e.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\401cd12a-71c6-45b6-95b4-566e4980717e.jpg",
       "PackagePath": "staticwebassets\\images\\words\\401cd12a-71c6-45b6-95b4-566e4980717e.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\50f15a62-e791-4267-ad11-fc21fa0a738c.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\42737e3b-6cad-431a-bf06-7d7e7ac4d54f.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\42737e3b-6cad-431a-bf06-7d7e7ac4d54f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\4a4ab61a-c75d-40f2-83f1-67618b6d75ec.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\4a4ab61a-c75d-40f2-83f1-67618b6d75ec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\4b268ab5-4d7c-448c-be08-5db7d7d6c16b.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\4b268ab5-4d7c-448c-be08-5db7d7d6c16b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\5000a82e-72d0-45c8-be7d-41715735d9cb.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\5000a82e-72d0-45c8-be7d-41715735d9cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\50f15a62-e791-4267-ad11-fc21fa0a738c.jpg",
       "PackagePath": "staticwebassets\\images\\words\\50f15a62-e791-4267-ad11-fc21fa0a738c.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg",
       "PackagePath": "staticwebassets\\images\\words\\523b34a6-54a9-44da-93dc-e1d6fb05aca1.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\5845e535-bf69-44cf-a11a-4611934ba83c.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\5845e535-bf69-44cf-a11a-4611934ba83c.jpg",
       "PackagePath": "staticwebassets\\images\\words\\5845e535-bf69-44cf-a11a-4611934ba83c.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\77f53854-0dce-4037-848a-78bc2a87dcd5.webp",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\58b37f28-2ed2-4bf7-8bdc-7db39ced6707.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\58b37f28-2ed2-4bf7-8bdc-7db39ced6707.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\58e9eed6-816c-4d5b-929f-758a2c55ba3b.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\58e9eed6-816c-4d5b-929f-758a2c55ba3b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\696549dd-5c12-418c-97f4-088533306969.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\696549dd-5c12-418c-97f4-088533306969.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\6d62f09c-74f4-46d9-ae92-2e3796343c2d.webp",
+      "PackagePath": "staticwebassets\\images\\words\\6d62f09c-74f4-46d9-ae92-2e3796343c2d.webp"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\6f0b0913-d7fd-4405-85a2-ebd6495e9e04.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\6f0b0913-d7fd-4405-85a2-ebd6495e9e04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\73553047-e770-41be-839b-f8d71e21febb.png",
+      "PackagePath": "staticwebassets\\images\\words\\73553047-e770-41be-839b-f8d71e21febb.png"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\77f53854-0dce-4037-848a-78bc2a87dcd5.webp",
       "PackagePath": "staticwebassets\\images\\words\\77f53854-0dce-4037-848a-78bc2a87dcd5.webp"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\790e0720-c752-453d-9008-d233c2ac38a0.png",
+      "PackagePath": "staticwebassets\\images\\words\\790e0720-c752-453d-9008-d233c2ac38a0.png"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\7978d3a1-f1b9-4098-acc8-93d8aab56bc6.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\7978d3a1-f1b9-4098-acc8-93d8aab56bc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg",
       "PackagePath": "staticwebassets\\images\\words\\80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\9230d911-dee6-43ba-93af-49eeb13c305d.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\8ef9b1ec-ebf8-4865-8adc-67ab7a5e3212.webp",
+      "PackagePath": "staticwebassets\\images\\words\\8ef9b1ec-ebf8-4865-8adc-67ab7a5e3212.webp"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\9230d911-dee6-43ba-93af-49eeb13c305d.jpg",
       "PackagePath": "staticwebassets\\images\\words\\9230d911-dee6-43ba-93af-49eeb13c305d.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\93456ece-b958-4fde-9722-1749c2377e34.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\93456ece-b958-4fde-9722-1749c2377e34.jpg",
       "PackagePath": "staticwebassets\\images\\words\\93456ece-b958-4fde-9722-1749c2377e34.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\9a910519-9b39-491c-9138-232ccb504d95.png",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\941fc128-55a9-4925-baae-e8148350bf8e.webp",
+      "PackagePath": "staticwebassets\\images\\words\\941fc128-55a9-4925-baae-e8148350bf8e.webp"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\991f8d1c-3117-4775-8f2c-95b0cb73669c.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\991f8d1c-3117-4775-8f2c-95b0cb73669c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\9a910519-9b39-491c-9138-232ccb504d95.png",
       "PackagePath": "staticwebassets\\images\\words\\9a910519-9b39-491c-9138-232ccb504d95.png"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\b2609055-7555-49e4-91f0-e1973e2426fd.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\a0840997-9b1a-452b-9dcc-4b118ca75d60.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\a0840997-9b1a-452b-9dcc-4b118ca75d60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\abf018bc-b688-48d0-a02f-3024958c5b3b.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\abf018bc-b688-48d0-a02f-3024958c5b3b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\b2609055-7555-49e4-91f0-e1973e2426fd.jpg",
       "PackagePath": "staticwebassets\\images\\words\\b2609055-7555-49e4-91f0-e1973e2426fd.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\c42a8905-7183-42f8-aee4-58d91a295436.webp",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\b6359636-4597-47ca-bd6b-42f6ce5ca5f8.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\b6359636-4597-47ca-bd6b-42f6ce5ca5f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\c42a8905-7183-42f8-aee4-58d91a295436.webp",
       "PackagePath": "staticwebassets\\images\\words\\c42a8905-7183-42f8-aee4-58d91a295436.webp"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\c5173526-caac-4619-ac12-e747970a68f4.webp",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\c5173526-caac-4619-ac12-e747970a68f4.webp",
       "PackagePath": "staticwebassets\\images\\words\\c5173526-caac-4619-ac12-e747970a68f4.webp"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\ce0121a4-d81f-4316-980c-dbee73f142a7.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\c6eac819-488a-44e7-8e63-bf08bf2a3346.png",
+      "PackagePath": "staticwebassets\\images\\words\\c6eac819-488a-44e7-8e63-bf08bf2a3346.png"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\ce0121a4-d81f-4316-980c-dbee73f142a7.jpg",
       "PackagePath": "staticwebassets\\images\\words\\ce0121a4-d81f-4316-980c-dbee73f142a7.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\d5edddc3-456d-4056-b71e-b031280564bd.png",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\d5edddc3-456d-4056-b71e-b031280564bd.png",
       "PackagePath": "staticwebassets\\images\\words\\d5edddc3-456d-4056-b71e-b031280564bd.png"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp",
       "PackagePath": "staticwebassets\\images\\words\\d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\e232da2e-e4de-43d6-bc97-9426700c7fef.png",
+      "PackagePath": "staticwebassets\\images\\words\\e232da2e-e4de-43d6-bc97-9426700c7fef.png"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg",
       "PackagePath": "staticwebassets\\images\\words\\e2460a15-b1b8-43dd-bcad-a3c1784d46d6.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\e65ee328-8685-4e36-85e4-03575084e695.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\e65ee328-8685-4e36-85e4-03575084e695.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\e79e15ba-e41f-468f-a7f5-ef918cf9cf53.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\e79e15ba-e41f-468f-a7f5-ef918cf9cf53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\ecd96b27-d0dc-4ead-ad9c-8a210403c033.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\ecd96b27-d0dc-4ead-ad9c-8a210403c033.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\ede29bce-f5ac-42f0-acb0-5e65bc8871c3.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\ede29bce-f5ac-42f0-acb0-5e65bc8871c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg",
       "PackagePath": "staticwebassets\\images\\words\\f44c3d37-8c0d-450c-a63f-cc49908c9722.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\images\\words\\f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg",
       "PackagePath": "staticwebassets\\images\\words\\f8c387d1-393a-4d65-a4c5-1142ac5e6ef0.jpg"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\f9737a3c-776b-4f29-ab9f-de4a9469ed37.webp",
+      "PackagePath": "staticwebassets\\images\\words\\f9737a3c-776b-4f29-ab9f-de4a9469ed37.webp"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\fb9b7ff8-4c14-41f7-b83a-248aa5179865.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\fb9b7ff8-4c14-41f7-b83a-248aa5179865.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\fbade137-c7a3-4ed1-9d45-4e6871776a67.jpg",
+      "PackagePath": "staticwebassets\\images\\words\\fbade137-c7a3-4ed1-9d45-4e6871776a67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

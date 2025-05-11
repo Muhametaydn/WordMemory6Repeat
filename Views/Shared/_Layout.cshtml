@@ -33,8 +33,7 @@
                                     asp-controller="Words" asp-action="Index">Kelime Ekle</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link @(ViewContext.RouteData.Values["controller"]?.ToString() == "Exam" ? "active" : "")"
-                                    asp-controller="Exam" asp-action="Index">Sınav</a>
+                                <a class="nav-link text-dark" asp-controller="Quiz" asp-action="Take">Sınav Ol</a>
                             </li>
                         }
                     </ul>

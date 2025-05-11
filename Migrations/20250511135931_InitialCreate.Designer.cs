@@ -12,8 +12,8 @@ using WordMemoryApp.Data;
 namespace WordMemoryApp.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250509183527_AddOwnerIdToWords")]
-    partial class AddOwnerIdToWords
+    [Migration("20250511135931_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -50,6 +50,38 @@ namespace WordMemoryApp.Migrations
                     b.ToTable("PasswordResetTokens");
                 });
 
+            modelBuilder.Entity("WordMemoryApp.Models.QuestionAttempt", b =>
+                {
+                    b.Property<long>("AttemptID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("AttemptID"));
+
+                    b.Property<DateTime>("AskedAtUtc")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsCorrect")
+                        .HasColumnType("bit");
+
+                    b.Property<byte>("QuestionType")
+                        .HasColumnType("tinyint");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("WordID")
+                        .HasColumnType("int");
+
+                    b.HasKey("AttemptID");
+
+                    b.HasIndex("UserID");
+
+                    b.HasIndex("WordID");
+
+                    b.ToTable("QuestionAttempts");
+                });
+
             modelBuilder.Entity("WordMemoryApp.Models.User", b =>
                 {
                     b.Property<int>("UserID")
@@ -76,6 +108,36 @@ namespace WordMemoryApp.Migrations
                         .IsUnique();
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("WordMemoryApp.Models.UserWordProgress", b =>
+                {
+                    b.Property<int>("UserWordProgressID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserWordProgressID"));
+
+                    b.Property<byte>("CorrectStreak")
+                        .HasColumnType("tinyint");
+
+                    b.Property<bool>("IsLearned")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("WordID")
+                        .HasColumnType("int");
+
+                    b.HasKey("UserWordProgressID");
+
+                    b.HasIndex("WordID");
+
+                    b.HasIndex("UserID", "WordID")
+                        .IsUnique();
+
+                    b.ToTable("UserWordProgresses");
                 });
 
             modelBuilder.Entity("WordMemoryApp.Models.Word", b =>
@@ -138,6 +200,44 @@ namespace WordMemoryApp.Migrations
                         .IsRequired();
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("WordMemoryApp.Models.QuestionAttempt", b =>
+                {
+                    b.HasOne("WordMemoryApp.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserID")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("WordMemoryApp.Models.Word", "Word")
+                        .WithMany()
+                        .HasForeignKey("WordID")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("User");
+
+                    b.Navigation("Word");
+                });
+
+            modelBuilder.Entity("WordMemoryApp.Models.UserWordProgress", b =>
+                {
+                    b.HasOne("WordMemoryApp.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("WordMemoryApp.Models.Word", "Word")
+                        .WithMany()
+                        .HasForeignKey("WordID")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("User");
+
+                    b.Navigation("Word");
                 });
 
             modelBuilder.Entity("WordMemoryApp.Models.Word", b =>

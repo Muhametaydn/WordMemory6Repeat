@@ -1,0 +1,9 @@
+@{
+    ViewData["Title"] = "Sonuç";
+}
+
+<div class="text-center mt-5">
+    <h2>Sonuç:</h2>
+    <h1 class="display-4">@ViewBag.Score</h1>
+    <a asp-controller="Quiz" asp-action="Take" class="btn btn-success mt-4">Tekrar Sınav Ol</a>
+</div>

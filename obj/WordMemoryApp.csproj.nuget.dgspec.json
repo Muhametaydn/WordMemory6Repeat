@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\WordMemoryApp.csproj": {}
+    "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\WordMemoryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\WordMemoryApp.csproj": {
+    "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\WordMemoryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\WordMemoryApp.csproj",
+        "projectUniqueName": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\WordMemoryApp.csproj",
         "projectName": "WordMemoryApp",
-        "projectPath": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\WordMemoryApp.csproj",
+        "projectPath": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\WordMemoryApp.csproj",
         "packagesPath": "C:\\Users\\cidal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemoryApp\\obj\\",
+        "outputPath": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,6 +60,12 @@
               "version": "[2.3.1, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.4, )"
             },
