@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nbvnm50e24</Fingerprint>
-      <Integrity>rXcMX2zNqFilNaHnzRMJPvrwvOa9IVv4BkVwufqANDs=</Integrity>
+      <Fingerprint>jnxaz751l4</Fingerprint>
+      <Integrity>39dhV4KPfrp1ycKTL8M2+CwS+oQRjVAhhRAeqLcWO1w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -359,6 +359,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\42737e3b-6cad-431a-bf06-7d7e7ac4d54f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\4453bedd-6362-4e78-ab2b-579891462980.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WordMemoryApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WordMemoryApp</BasePath>
+      <RelativePath>images/words/4453bedd-6362-4e78-ab2b-579891462980.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mw3wahrnds</Fingerprint>
+      <Integrity>OoYownKEoyi+glghf4qsmBUsOY6pkan28EHC9favfRc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\4453bedd-6362-4e78-ab2b-579891462980.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\4a4ab61a-c75d-40f2-83f1-67618b6d75ec.jpg'))">
       <SourceType>Package</SourceType>

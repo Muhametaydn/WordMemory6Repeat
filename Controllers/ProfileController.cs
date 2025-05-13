@@ -74,4 +74,40 @@ public class ProfileController : Controller
         if (max % 5 != 0) yield return max;
     }
 
+    // GET /Profile/AnalysisReport
+    [HttpGet("AnalysisReport")]
+    public async Task<IActionResult> AnalysisReport()
+    {
+        int userId = int.Parse(User.FindFirst("UserID")!.Value);
+
+        // 1) Soru tiplerine göre istatistikler
+        var stats = await _db.QuestionAttempts
+            .Where(a => a.UserID == userId)
+            .GroupBy(a => a.QuestionType)
+            .Select(g => new QuestionTypeStat
+            {
+                QuestionType = g.Key,
+                TotalAsked = g.Count(),
+                CorrectCount = g.Count(a => a.IsCorrect)
+            })
+            .ToListAsync();
+
+        // 2) 6× doğru bildiği için IsLearned = true olan kelimeler
+        var learnedWords = await _db.UserWordProgresses
+            .Where(p => p.UserID == userId && p.IsLearned)
+            .Include(p => p.Word)
+            .Select(p => p.Word!.EngWordName)
+            .ToListAsync();
+
+        var vm = new AnalysisReportViewModel
+        {
+            QuestionTypeStats = stats,
+            FullyLearnedWords = learnedWords
+        };
+
+        return View(vm);
+    }
+
+    // …diğer aksiyonlar (Index, POST Index, BuildOptions vb.)
+
 }

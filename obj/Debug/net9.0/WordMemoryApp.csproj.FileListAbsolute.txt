@@ -389,7 +389,6 @@ C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\WordMemoryA
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\scopedcss\bundle\WordMemoryApp.styles.css
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\scopedcss\projectbundle\WordMemoryApp.bundle.scp.css
-C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\compressed\eymv1b0xah-nbvnm50e24.gz
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\compressed\cxqdf3j67s-61n19gt1b8.gz
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\compressed\qdb3dkz0wd-xtxxf3hu2r.gz
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\compressed\0h3vmv7o8o-t1cqhe9u97.gz
@@ -468,3 +467,4 @@ C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\refint\Word
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\WordMemoryApp.pdb
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\WordMemoryApp.genruntimeconfig.cache
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\ref\WordMemoryApp.dll
+C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\compressed\eymv1b0xah-jnxaz751l4.gz

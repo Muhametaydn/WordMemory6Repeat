@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="_content/WordMemoryApp/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rXcMX2zNqFilNaHnzRMJPvrwvOa9IVv4BkVwufqANDs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2573"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rXcMX2zNqFilNaHnzRMJPvrwvOa9IVv4BkVwufqANDs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 15:37:51 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-39dhV4KPfrp1ycKTL8M2\u002BCwS\u002BoQRjVAhhRAeqLcWO1w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2818"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002239dhV4KPfrp1ycKTL8M2\u002BCwS\u002BoQRjVAhhRAeqLcWO1w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 17:10:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WordMemoryApp/css/site.nbvnm50e24.css">
+    <StaticWebAssetEndpoint Include="_content/WordMemoryApp/css/site.jnxaz751l4.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nbvnm50e24"},{"Name":"integrity","Value":"sha256-rXcMX2zNqFilNaHnzRMJPvrwvOa9IVv4BkVwufqANDs="},{"Name":"label","Value":"_content/WordMemoryApp/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2573"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rXcMX2zNqFilNaHnzRMJPvrwvOa9IVv4BkVwufqANDs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 15:37:51 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jnxaz751l4"},{"Name":"integrity","Value":"sha256-39dhV4KPfrp1ycKTL8M2\u002BCwS\u002BoQRjVAhhRAeqLcWO1w="},{"Name":"label","Value":"_content/WordMemoryApp/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2818"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002239dhV4KPfrp1ycKTL8M2\u002BCwS\u002BoQRjVAhhRAeqLcWO1w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 17:10:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WordMemoryApp/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -239,6 +239,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n55cm9vyna"},{"Name":"integrity","Value":"sha256-G68S\u002BM\u002BslcQK0Fklzoq9P9UkHwvDbx0GGKY5iNVJxAg="},{"Name":"label","Value":"_content/WordMemoryApp/images/words/42737e3b-6cad-431a-bf06-7d7e7ac4d54f.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"554679"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022G68S\u002BM\u002BslcQK0Fklzoq9P9UkHwvDbx0GGKY5iNVJxAg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 14:10:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WordMemoryApp/images/words/4453bedd-6362-4e78-ab2b-579891462980.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\4453bedd-6362-4e78-ab2b-579891462980.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OoYownKEoyi\u002Bglghf4qsmBUsOY6pkan28EHC9favfRc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12382"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OoYownKEoyi\u002Bglghf4qsmBUsOY6pkan28EHC9favfRc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 16:38:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WordMemoryApp/images/words/4453bedd-6362-4e78-ab2b-579891462980.mw3wahrnds.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\4453bedd-6362-4e78-ab2b-579891462980.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mw3wahrnds"},{"Name":"integrity","Value":"sha256-OoYownKEoyi\u002Bglghf4qsmBUsOY6pkan28EHC9favfRc="},{"Name":"label","Value":"_content/WordMemoryApp/images/words/4453bedd-6362-4e78-ab2b-579891462980.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12382"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OoYownKEoyi\u002Bglghf4qsmBUsOY6pkan28EHC9favfRc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 16:38:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WordMemoryApp/images/words/4a4ab61a-c75d-40f2-83f1-67618b6d75ec.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\4a4ab61a-c75d-40f2-83f1-67618b6d75ec.jpg'))</AssetFile>

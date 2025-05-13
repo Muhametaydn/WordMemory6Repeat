@@ -127,3 +127,22 @@ a:hover {
     text-align: center;
   }
 }
+
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+
+  #report-container,
+  #report-container * {
+    visibility: visible;
+  }
+
+  #report-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+}

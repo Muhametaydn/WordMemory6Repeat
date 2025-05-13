@@ -1,0 +1,51 @@
+@model WordMemoryApp.Models.AnalysisReportViewModel
+
+<div id="report-container" class="p-4">
+  <h2>Analiz Raporu</h2>
+
+  <section class="mb-4">
+    <h3>Soru Tiplerine Göre Başarı Oranları</h3>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Soru Tipi</th>
+          <th>Toplam Sorular</th>
+          <th>Doğru Sayısı</th>
+          <th>Başarı (%)</th>
+        </tr>
+      </thead>
+      <tbody>
+        @foreach (var s in Model.QuestionTypeStats)
+        {
+          <tr>
+            <td>@s.QuestionType</td>
+            <td>@s.TotalAsked</td>
+            <td>@s.CorrectCount</td>
+            <td>@s.SuccessRate</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </section>
+
+  <section class="mb-4">
+    <h3>Kesin Öğrenilen Kelimeler (6× Doğru)</h3>
+    @if (Model.FullyLearnedWords.Any())
+    {
+      <ul>
+        @foreach (var w in Model.FullyLearnedWords)
+        {
+          <li>@w</li>
+        }
+      </ul>
+    }
+    else
+    {
+      <p>Henüz 6 kez doğru işaretlenmiş kelime yok.</p>
+    }
+  </section>
+
+  <button class="btn btn-primary" onclick="window.print()">
+    Raporu Yazdır
+  </button>
+</div>

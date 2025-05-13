@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordMemoryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f0aa54d3b42aae3b01e974d0650daf9a9766192")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abd3213014c40caaad490ad8ea27798d0100fa59")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordMemoryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordMemoryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
