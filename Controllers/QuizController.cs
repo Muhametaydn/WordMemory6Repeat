@@ -11,12 +11,15 @@ public class QuizController : Controller
     public QuizController(QuizService quiz) => _quiz = quiz;
 
     // GET: /Quiz/Take
-    public async Task<IActionResult> Take(int count = 10)
+    public async Task<IActionResult> Take()
     {
-        // Örnek: userId cookie/claim'den
+        // 1) Oturumdan kullanıcı kimliği
         int userId = int.Parse(User.FindFirst("UserID")!.Value);
 
-        var dtoList = await _quiz.GenerateQuizAsync(userId, count);
+        // 2) Servis, kullanıcı ayarını (UserSettings.NewWordTarget) kendi içinde okur
+        var dtoList = await _quiz.GenerateQuizAsync(userId);
+
+        // 3) DTO → ViewModel dönüştür
         var vm = new QuizVM
         {
             Questions = dtoList.Select(d => new QuizQuestionVM
@@ -30,8 +33,9 @@ public class QuizController : Controller
             }).ToList()
         };
 
-        return View(vm);               // Views/Quiz/Take.cshtml
+        return View(vm);          // Views/Quiz/Take.cshtml
     }
+
 
     // POST: /Quiz/Submit
     [HttpPost, ValidateAntiForgeryToken]

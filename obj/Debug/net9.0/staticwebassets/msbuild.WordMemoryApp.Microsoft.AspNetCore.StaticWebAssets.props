@@ -54,6 +54,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\032a9547-ef91-489e-ae23-b4ddf8e20c3f.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\039edd9b-a054-474f-a7e2-b9b5cc268994.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WordMemoryApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WordMemoryApp</BasePath>
+      <RelativePath>images/words/039edd9b-a054-474f-a7e2-b9b5cc268994.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zbavep1sp3</Fingerprint>
+      <Integrity>DygKv5nbelhY01z2x5bZX4di3Lr6luciKMjt0eFHxcs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\039edd9b-a054-474f-a7e2-b9b5cc268994.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\07d7ab51-56fd-4dbb-ad2e-420382ed2577.webp'))">
       <SourceType>Package</SourceType>
       <SourceId>WordMemoryApp</SourceId>
@@ -612,6 +630,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\7978d3a1-f1b9-4098-acc8-93d8aab56bc6.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\7cfc916d-0c3a-4cde-a3c6-65941609bfb0.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WordMemoryApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WordMemoryApp</BasePath>
+      <RelativePath>images/words/7cfc916d-0c3a-4cde-a3c6-65941609bfb0.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1xhv5mh59n</Fingerprint>
+      <Integrity>iwbDr3wnvMz0QrwTLHLMHxTYG33m18FjQHxkR6mGXK0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\7cfc916d-0c3a-4cde-a3c6-65941609bfb0.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\80e0bfd3-c987-41a0-8d5e-fcba0f014439.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>WordMemoryApp</SourceId>
@@ -899,6 +935,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\d5edddc3-456d-4056-b71e-b031280564bd.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\d7baf479-f25e-4ca2-894b-2eed9b997e92.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WordMemoryApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WordMemoryApp</BasePath>
+      <RelativePath>images/words/d7baf479-f25e-4ca2-894b-2eed9b997e92.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iialk4lz55</Fingerprint>
+      <Integrity>elxSt1YTjp0Xoduh5OODhS5gEkr7kqve464PYrNm1fY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\d7baf479-f25e-4ca2-894b-2eed9b997e92.webp'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\words\d83bf0cd-2f6e-47e5-a091-dc9f108e5dc3.webp'))">
       <SourceType>Package</SourceType>

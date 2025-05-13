@@ -12,8 +12,12 @@ public class QuizService
     public QuizService(AppDbContext db) => _db = db;
 
     // ---------- Sınav oluştur ----------
-    public async Task<List<QuizQuestionDto>> GenerateQuizAsync(int userId, int count = 10)
+    public async Task<List<QuizQuestionDto>> GenerateQuizAsync(int userId, int? overrideCount = null)
     {
+        int count = overrideCount
+        ?? (await _db.UserSettings.FindAsync(userId))?.NewWordTarget
+        ?? 10;
+
         // 1) Öğrenilmemiş bütün kelimeleri çek (sırasız)
         var pool = await _db.Words
             .Where(w => w.OwnerId == userId)

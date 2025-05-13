@@ -1,0 +1,39 @@
+@model WordMemoryApp.Models.UserSettings
+@{
+    ViewData["Title"] = "Profil – Sınav Ayarları";
+    var opts = (IEnumerable<int>)ViewBag.Options!;
+}
+
+<h2 class="mb-4">Sınav Ayarları</h2>
+
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success">@TempData["msg"]</div>
+}
+
+<form asp-action="Index" method="post" class="w-50">
+    @Html.AntiForgeryToken()
+
+    <div class="mb-3">
+        <label asp-for="NewWordTarget" class="form-label">
+            Her sınavda gösterilecek soru sayısı
+        </label>
+
+        <select asp-for="NewWordTarget" class="form-select">
+            @foreach (var n in opts)
+            {
+                <option value="@n" selected="@(n == Model.NewWordTarget)">
+                    @n soru
+                </option>
+            }
+        </select>
+
+        <span asp-validation-for="NewWordTarget" class="text-danger"></span>
+    </div>
+
+    <button class="btn btn-primary">Kaydet</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
