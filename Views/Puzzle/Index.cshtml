@@ -1,0 +1,42 @@
+@model WordMemoryApp.Models.PuzzleState
+@{
+    Layout = "_Layout";
+    int len = ViewBag.Len; // sütun
+    int rows = ViewBag.MaxAttempt; // 5 satır
+}
+
+<h2 class="mt-4">Bulmaca (Wordle)</h2>
+
+<div id="board" class="d-grid gap-2 mt-4" style='@($"grid-template-columns: repeat({len}, 3rem);")'>
+
+    @for (int r = 0; r < rows; r++)
+        for (int c = 0; c < len; c++)
+        {
+            <div class="cell border rounded text-center fw-bold fs-4 p-2" data-row="@r" data-col="@c"></div>
+        }
+</div>
+
+<form id="guessForm" class="input-group mt-4" autocomplete="off">
+    <input class="form-control text-uppercase" name="attempt" maxlength="@len" minlength="@len" placeholder="@len Harf"
+        required />
+    <button class="btn btn-primary">Gönder</button>
+</form>
+
+<div id="msg" class="mt-3 fw-semibold"></div>
+@* Index.cshtml içinde *@
+@if (Model.IsFinished)
+{
+    <a asp-controller="Puzzle" asp-action="New" class="btn btn-sm btn-primary mt-2">
+        Yeni Oyun
+    </a>
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/puzzle.css" />
+}
+@section Scripts {
+    <script>
+        console.log("Seçilen kelime:", "@ViewBag.TargetWord".toUpperCase());
+    </script>
+    <script src="~/js/puzzle.js"></script>
+}

@@ -1,0 +1,33 @@
+#board {
+    --size: 3rem;
+}
+
+#board .cell {
+    width: var(--size);
+    height: var(--size);
+    line-height: var(--size);
+    border: 2px solid #d3d6da;
+    font-weight: 700;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    user-select: none;
+    background: #f8f9fa;
+}
+
+#board .bg-success {
+    background: #538d4e !important;
+    border-color: #538d4e;
+    color: #fff;
+}
+
+#board .bg-warning {
+    background: #b59f3b !important;
+    border-color: #b59f3b;
+    color: #fff;
+}
+
+#board .bg-secondary {
+    background: #3a3a3c !important;
+    border-color: #3a3a3c;
+    color: #fff;
+}

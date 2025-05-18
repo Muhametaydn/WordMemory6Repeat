@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WordMemoryApp.fyftc8bccf.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\puzzle.css",
+      "PackagePath": "staticwebassets\\css\\puzzle.css"
+    },
+    {
       "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -267,6 +271,10 @@
     {
       "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\images\\words\\fbade137-c7a3-4ed1-9d45-4e6871776a67.jpg",
       "PackagePath": "staticwebassets\\images\\words\\fbade137-c7a3-4ed1-9d45-4e6871776a67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\puzzle.js",
+      "PackagePath": "staticwebassets\\js\\puzzle.js"
     },
     {
       "Id": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\site.js",

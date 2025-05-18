@@ -468,3 +468,5 @@ C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\WordMemoryA
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\WordMemoryApp.genruntimeconfig.cache
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\ref\WordMemoryApp.dll
 C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\compressed\eymv1b0xah-jnxaz751l4.gz
+C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\compressed\z48srjaede-34bb9eeptc.gz
+C:\Users\cidal\Desktop\CodingFile\WordMemory6Repeat\obj\Debug\net9.0\compressed\hggzvb50ck-h9duvznip8.gz

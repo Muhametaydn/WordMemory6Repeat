@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/WordMemoryApp/css/puzzle.34bb9eeptc.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\puzzle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"34bb9eeptc"},{"Name":"integrity","Value":"sha256-A853IAik\u002B6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="},{"Name":"label","Value":"_content/WordMemoryApp/css/puzzle.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"627"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022A853IAik\u002B6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 15:38:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WordMemoryApp/css/puzzle.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\puzzle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-A853IAik\u002B6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"627"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022A853IAik\u002B6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 15:38:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WordMemoryApp/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -791,6 +803,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41282"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 14:07:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WordMemoryApp/js/puzzle.h9duvznip8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\puzzle.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h9duvznip8"},{"Name":"integrity","Value":"sha256-pXn45VooJBVj4XYoS4dZu\u002B3mikMRtZYDQ9K5448L8h8="},{"Name":"label","Value":"_content/WordMemoryApp/js/puzzle.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1705"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022pXn45VooJBVj4XYoS4dZu\u002B3mikMRtZYDQ9K5448L8h8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 15:55:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WordMemoryApp/js/puzzle.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\puzzle.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pXn45VooJBVj4XYoS4dZu\u002B3mikMRtZYDQ9K5448L8h8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1705"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022pXn45VooJBVj4XYoS4dZu\u002B3mikMRtZYDQ9K5448L8h8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 15:55:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WordMemoryApp/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

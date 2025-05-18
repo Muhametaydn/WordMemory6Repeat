@@ -301,6 +301,304 @@
       ]
     },
     {
+      "Route": "css/puzzle.34bb9eeptc.css",
+      "AssetFile": "css/puzzle.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003731343284"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34bb9eeptc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="
+        },
+        {
+          "Name": "label",
+          "Value": "css/puzzle.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.34bb9eeptc.css",
+      "AssetFile": "css/puzzle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34bb9eeptc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="
+        },
+        {
+          "Name": "label",
+          "Value": "css/puzzle.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.34bb9eeptc.css.gz",
+      "AssetFile": "css/puzzle.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34bb9eeptc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk="
+        },
+        {
+          "Name": "label",
+          "Value": "css/puzzle.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.css",
+      "AssetFile": "css/puzzle.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003731343284"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.css",
+      "AssetFile": "css/puzzle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.css.gz",
+      "AssetFile": "css/puzzle.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
@@ -6141,6 +6439,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.h9duvznip8.js",
+      "AssetFile": "js/puzzle.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001396648045"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h9duvznip8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8="
+        },
+        {
+          "Name": "label",
+          "Value": "js/puzzle.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.h9duvznip8.js",
+      "AssetFile": "js/puzzle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h9duvznip8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8="
+        },
+        {
+          "Name": "label",
+          "Value": "js/puzzle.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.h9duvznip8.js.gz",
+      "AssetFile": "js/puzzle.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h9duvznip8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8="
+        },
+        {
+          "Name": "label",
+          "Value": "js/puzzle.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.js",
+      "AssetFile": "js/puzzle.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001396648045"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.js",
+      "AssetFile": "js/puzzle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.js.gz",
+      "AssetFile": "js/puzzle.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8="
         }
       ]
     },

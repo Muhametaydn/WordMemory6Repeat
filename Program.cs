@@ -9,6 +9,14 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+//wordle
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(opts =>
+{
+    opts.IdleTimeout = TimeSpan.FromHours(2);   // ister değiştir
+    opts.Cookie.HttpOnly = true;
+});
+
 // ➤ Veritabanı bağlantısı (MSSQL)
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -40,6 +48,7 @@ app.UseRouting();
 
 app.UseStaticFiles();
 // 👇 MUTLAKA önce Authentication
+app.UseSession();
 app.UseAuthentication();
 // 👇 sonra Authorization
 app.UseAuthorization();

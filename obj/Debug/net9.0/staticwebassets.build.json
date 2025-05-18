@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BdPmZG9q5T56ZkZqYUYAsYnDt+NNc/CtZWcvsg4z6Oo=",
+  "Hash": "hisCGBnY7yFEHFZM5Yv6JNdtM/ujY/WTt7URF1q91DU=",
   "Source": "WordMemoryApp",
   "BasePath": "_content/WordMemoryApp",
   "Mode": "Default",
@@ -689,6 +689,27 @@
       "OriginalItemSpec": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\hggzvb50ck-h9duvznip8.gz",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "js/puzzle#[.{fingerprint=h9duvznip8}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\puzzle.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1gyrhod9jk",
+      "Integrity": "3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\puzzle.js"
+    },
+    {
       "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\jcwj6ivzt1-jd9uben2k1.gz",
       "SourceId": "WordMemoryApp",
       "SourceType": "Discovered",
@@ -1340,6 +1361,27 @@
       "OriginalItemSpec": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\z48srjaede-34bb9eeptc.gz",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "css/puzzle#[.{fingerprint=34bb9eeptc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\puzzle.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "nlciq7oda9",
+      "Integrity": "S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\puzzle.css"
+    },
+    {
       "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\zctemifyyj-c63t5i9ira.gz",
       "SourceId": "WordMemoryApp",
       "SourceType": "Discovered",
@@ -1401,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WordMemoryApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\puzzle.css",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "css/puzzle#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "34bb9eeptc",
+      "Integrity": "A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\puzzle.css"
     },
     {
       "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\site.css",
@@ -2789,6 +2852,27 @@
       "OriginalItemSpec": "wwwroot\\images\\words\\fbade137-c7a3-4ed1-9d45-4e6871776a67.jpg"
     },
     {
+      "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\puzzle.js",
+      "SourceId": "WordMemoryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\",
+      "BasePath": "_content/WordMemoryApp",
+      "RelativePath": "js/puzzle#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h9duvznip8",
+      "Integrity": "pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\puzzle.js"
+    },
+    {
       "Identity": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\site.js",
       "SourceId": "WordMemoryApp",
       "SourceType": "Discovered",
@@ -4071,6 +4155,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/puzzle.34bb9eeptc.css",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\z48srjaede-34bb9eeptc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003731343284"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34bb9eeptc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/puzzle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.34bb9eeptc.css",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\puzzle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34bb9eeptc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/puzzle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.34bb9eeptc.css.gz",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\z48srjaede-34bb9eeptc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34bb9eeptc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/puzzle.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk="
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.css",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\z48srjaede-34bb9eeptc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003731343284"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.css",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\css\\puzzle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A853IAik+6InVJLCBhqgKNTGwCxohyIW55q8HHl6JVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/puzzle.css.gz",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\z48srjaede-34bb9eeptc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S6bCnTL72hopCH+c4RujITsz7nBGOh56vJnF5LNluuk="
+        }
+      ]
+    },
     {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\eymv1b0xah-jnxaz751l4.gz",
@@ -9912,6 +10294,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-gTMNo1FsZ6i/QdaYB7tIiHRxhoJntk3tzwQePJKQyM0="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.h9duvznip8.js",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\hggzvb50ck-h9duvznip8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001396648045"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "715"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h9duvznip8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/puzzle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.h9duvznip8.js",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\puzzle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h9duvznip8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/puzzle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.h9duvznip8.js.gz",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\hggzvb50ck-h9duvznip8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h9duvznip8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/puzzle.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.js",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\hggzvb50ck-h9duvznip8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001396648045"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "715"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.js",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\wwwroot\\js\\puzzle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pXn45VooJBVj4XYoS4dZu+3mikMRtZYDQ9K5448L8h8="
+        }
+      ]
+    },
+    {
+      "Route": "js/puzzle.js.gz",
+      "AssetFile": "C:\\Users\\cidal\\Desktop\\CodingFile\\WordMemory6Repeat\\obj\\Debug\\net9.0\\compressed\\hggzvb50ck-h9duvznip8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/fRezDJde+KfuxV2RFuim2HRoeyh9RPnc+I8D5Wog8="
         }
       ]
     },
